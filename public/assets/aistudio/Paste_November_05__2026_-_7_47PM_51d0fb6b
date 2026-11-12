@@ -1,0 +1,1263 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT
+## NEW DREAMLAND SCHOOL – PREMIUM WEBSITE DESIGN & DEVELOPMENT
+
+### Project Objective
+
+Act as an award-winning website design agency, senior UI/UX designer, frontend and backend architect, branding specialist, SEO consultant and full-stack developer.
+
+Your task is to design and develop a completely modern, premium, responsive and highly interactive official website for **New Dreamland School**.
+
+Reference website: https://dpssrinagar.com/
+
+Study the reference website carefully. Understand its content organization, school presentation, navigation, announcements, achievements, events, student activities, testimonials and overall institutional identity.
+
+Use it as a source of inspiration, but do not copy its design, layout, code, branding, images or content.
+
+The objective is to create a website that is significantly more visually impressive, easier to navigate, more interactive, more informative and more professionally structured.
+
+The website should establish New Dreamland School as a reputed, progressive and forward-looking educational institution.
+
+This is not a generic school website. It must look like a professionally commissioned digital platform.
+
+---
+
+# 1. DESIGN PHILOSOPHY AND VISUAL DIRECTION
+
+Create a premium educational brand experience.
+
+### Overall visual identity
+
+The website should communicate:
+
+- Academic excellence.
+- Trust and credibility.
+- Discipline and professionalism.
+- Innovation and modern education.
+- Student development.
+- A welcoming learning environment.
+- Institutional reputation.
+
+### Recommended design direction
+
+Use a combination of:
+
+- Premium editorial-style layouts.
+- Large, high-quality photography.
+- Elegant typography.
+- Generous whitespace.
+- Sophisticated content sections.
+- Subtle animations.
+- Interactive elements.
+- Modern card layouts.
+- Beautiful image compositions.
+- Smooth page transitions.
+
+### Colour palette
+
+Use a refined educational colour system:
+
+- Deep navy: `#102A43`
+- Royal blue: `#174A7E`
+- Soft ivory: `#FAFAF7`
+- White: `#FFFFFF`
+- Muted teal: `#138A8A`
+- Light grey: `#F1F4F7`
+- Dark charcoal: `#202B38`
+
+The final palette can be adjusted to match the school's actual logo and branding.
+
+### Typography
+
+Use professional typography combinations such as:
+
+- Headings: Playfair Display or an equivalent elegant display typeface.
+- Body: Inter, Manrope or another clean sans-serif.
+- Navigation: Modern, highly readable sans-serif.
+
+Maintain a consistent typography hierarchy throughout the website.
+
+### Design restrictions
+
+DO NOT:
+- Make the website look like an ordinary WordPress school template.
+- Use excessive gradients.
+- Use unnecessary glassmorphism.
+- Overuse rounded cards.
+- Put every section inside a separate box.
+- Use random animations.
+- Use cartoonish illustrations.
+- Use generic AI-generated school photographs as actual school photographs.
+- Create oversized dashboards on the public website.
+- Use repetitive layouts throughout the website.
+
+The final website should look sophisticated, intentional and professionally art-directed.
+
+---
+
+# 2. WEBSITE STRUCTURE AND NAVIGATION
+
+Create a comprehensive website with the following navigation structure.
+
+### Main navigation
+
+1. Home
+2. About Us
+3. Academics
+4. Admissions
+5. Campus & Facilities
+6. Student Life
+7. News & Events
+8. Gallery
+9. Contact Us
+
+### Important navigation actions
+
+Include prominent but tasteful navigation actions:
+
+- Apply for Admission
+- Parent Portal
+- Student Portal
+- Teacher Login
+- Pay School Fees
+- Download Centre
+
+The login and payment actions should connect to the corresponding school management system modules when those integrations are implemented.
+
+### Header design
+
+Create a sophisticated header containing:
+
+- New Dreamland School logo.
+- Main navigation.
+- Admission enquiry button.
+- Portal access shortcut.
+- Mobile navigation menu.
+
+Header behaviour:
+
+- Transparent or minimal header over the homepage hero.
+- Transitions into a solid background when scrolling.
+- Sticky navigation.
+- Smooth dropdown menus.
+- Proper keyboard accessibility.
+- Mobile-friendly navigation drawer.
+
+Create an optional slim top information bar for:
+- School contact information.
+- Important announcements.
+- Academic session information.
+- Quick links.
+
+Do not overcrowd the header.
+
+---
+
+# 3. HOMEPAGE – COMPLETE DESIGN SPECIFICATION
+
+The homepage is the most important part of the project.
+
+It should immediately communicate the school's identity and make visitors interested in exploring further.
+
+Build the homepage in the following sequence.
+
+### Section 1: Premium Hero Experience
+
+Create a visually impressive full-width hero section.
+
+Use:
+- High-quality school campus photography or video.
+- Large editorial-style headline.
+- Short institutional introduction.
+- Primary admission CTA.
+- Secondary explore-school CTA.
+- Subtle animated text.
+- Elegant image transitions.
+
+Suggested headline:
+
+"Where Learning Inspires. Where Futures Begin."
+
+Supporting text:
+
+"At New Dreamland School, we believe education goes beyond classrooms. We nurture curiosity, encourage creativity and empower every student to discover their potential."
+
+Buttons:
+- Explore Our School
+- Admission Enquiry
+
+Include a subtle scroll indicator.
+
+The hero should feel premium and memorable without becoming visually cluttered.
+
+Use actual school photographs when supplied. Until then, use clearly replaceable placeholder assets.
+
+### Section 2: School Introduction
+
+Create an editorial-style introduction.
+
+Include:
+- Welcome message.
+- Brief school philosophy.
+- School identity.
+- Academic approach.
+- Link to About Us.
+
+Use an asymmetric image-and-text layout.
+
+Suggested heading:
+
+"Building Knowledge. Shaping Character. Creating Tomorrow."
+
+### Section 3: Institutional Highlights
+
+Create a refined statistics section.
+
+Possible metrics:
+- Years of Educational Excellence.
+- Students Enrolled.
+- Experienced Faculty Members.
+- Academic Achievements.
+- Activities and Programmes.
+
+IMPORTANT: Do not invent numbers.
+
+Use editable placeholders until the school provides verified statistics.
+
+Add subtle count-up animations when statistics become visible.
+
+### Section 4: Principal's Welcome
+
+Create a premium principal's message section.
+
+Include:
+- Principal's photograph.
+- Name and designation.
+- Welcome message.
+- Educational philosophy.
+- Signature-style visual treatment, if supplied.
+- Read Full Message button.
+
+Do not invent the principal's name or message.
+
+### Section 5: Why Choose New Dreamland School?
+
+Present the school's educational strengths.
+
+Suggested feature categories:
+
+- Academic Excellence.
+- Dedicated Faculty.
+- Holistic Development.
+- Modern Learning Environment.
+- Sports and Co-curricular Activities.
+- Values and Discipline.
+- Individual Student Attention.
+- Technology-enabled Learning.
+
+Use elegant visual compositions rather than ordinary icon cards.
+
+All claims must be approved by the school.
+
+### Section 6: Academics Overview
+
+Create an academic showcase.
+
+Include:
+- Early learning.
+- Primary education.
+- Middle school.
+- Secondary education.
+- Senior secondary education, if offered.
+
+For each category include:
+- Brief description.
+- Educational approach.
+- Relevant subjects or programmes.
+- Explore More link.
+
+Do not assume which grades or streams are offered. Make these configurable.
+
+### Section 7: Campus and Infrastructure
+
+Create a large photographic section showcasing the school environment.
+
+Potential categories:
+- Smart classrooms.
+- Science laboratories.
+- Computer laboratories.
+- Library.
+- Sports facilities.
+- Activity rooms.
+- Transportation.
+- Other approved facilities.
+
+Use large images, descriptive captions and interactive gallery previews.
+
+Only display facilities that actually exist.
+
+### Section 8: Student Life
+
+This should be one of the most engaging homepage sections.
+
+Showcase:
+- Sports.
+- Cultural activities.
+- Art and creativity.
+- Science exhibitions.
+- Competitions.
+- Celebrations.
+- Educational trips.
+- Student clubs.
+- School assemblies.
+
+Create a visually dynamic image grid with a link to the full Student Life page.
+
+### Section 9: Latest News and Announcements
+
+Take inspiration from the reference website's news and announcements system, but create a significantly more polished presentation.
+
+Display:
+- Latest school announcements.
+- Academic notices.
+- Admission updates.
+- Examination notices.
+- Important circulars.
+- General school news.
+
+Each item should contain:
+- Image or category icon.
+- Title.
+- Publication date.
+- Short description.
+- Read More action.
+
+Include:
+- View All News.
+- Category filtering.
+- Individual announcement pages.
+
+### Section 10: Upcoming Events
+
+Create an attractive upcoming-events section.
+
+Display:
+- Event title.
+- Date.
+- Event category.
+- Description.
+- Relevant photograph.
+- Event details.
+
+Examples of event categories:
+- Sports.
+- Cultural events.
+- Academic events.
+- Competitions.
+- School celebrations.
+- Parent-teacher meetings.
+
+Only show confirmed events.
+
+### Section 11: Student Achievements
+
+Create a dedicated achievement showcase.
+
+Include:
+- Academic achievements.
+- Sports achievements.
+- Competition winners.
+- Awards and recognition.
+- Olympiad achievements, where applicable.
+- Other verified accomplishments.
+
+Each achievement should support:
+- Student name, where publication is approved.
+- Class or category.
+- Achievement title.
+- Date.
+- Photograph.
+- Description.
+
+Create an attractive editorial achievement layout.
+
+### Section 12: Alumni and Success Stories
+
+Create an alumni-focused section inspired by the reference website.
+
+Include:
+- Alumni stories.
+- Career achievements.
+- Higher education achievements.
+- Professional accomplishments.
+- Alumni testimonials.
+- Alumni photographs.
+
+Provide an Alumni Stories page and a submission facility if approved.
+
+Do not fabricate alumni names, universities, awards or testimonials.
+
+### Section 13: Learning Resource Centre
+
+Create a dedicated section for academic resources and learning activities.
+
+Potential content:
+- Reading activities.
+- Student publications.
+- Creative writing.
+- Educational resources.
+- Library activities.
+- Academic enrichment programmes.
+
+Make the content manageable through the administration system.
+
+### Section 14: Parent and Student Information
+
+Create a clean information-access section.
+
+Provide quick links to:
+- Student Portal.
+- Parent Portal.
+- Homework and Study Materials.
+- School Calendar.
+- Examination Information.
+- Fee Information.
+- Downloads.
+- Important Circulars.
+
+This section should connect to the actual management platform when available.
+
+### Section 15: Testimonials
+
+Create an elegant testimonial section.
+
+Include:
+- Parent feedback.
+- Alumni experiences.
+- Approved student testimonials.
+- Institutional visitor testimonials, if available.
+
+Use photographs only when permission is granted.
+
+Include a subtle carousel with accessible controls.
+
+Never generate fake reviews.
+
+### Section 16: Admission Call-to-Action
+
+Create a visually prominent admission section.
+
+Suggested headline:
+
+"Your Child's Journey Towards a Brighter Future Begins Here."
+
+Include:
+- Admission information.
+- Enquiry button.
+- Admission procedure link.
+- Required documents link.
+- Contact details.
+
+CTA: "Start Your Admission Enquiry"
+
+### Section 17: Contact and Location
+
+Include:
+- School address.
+- Phone numbers.
+- Email address.
+- Map integration.
+- Contact form.
+- Office timings, if supplied.
+- Directions.
+
+### Section 18: Premium Footer
+
+Include:
+- School logo.
+- Short institutional description.
+- Navigation links.
+- Academic links.
+- Admission links.
+- Portal shortcuts.
+- Contact information.
+- Social media links.
+- Privacy policy.
+- Terms and conditions.
+- Copyright information.
+
+Keep the footer structured and visually elegant.
+
+---
+
+# 4. DETAILED INNER PAGES
+
+Create fully developed inner pages, not empty placeholder pages.
+
+## A. About Us
+
+Include:
+- School introduction.
+- History and establishment.
+- Vision.
+- Mission.
+- Educational philosophy.
+- Core values.
+- Principal's message.
+- Management information.
+- Institutional milestones.
+- Achievements.
+- School leadership.
+
+Use an editorial layout with large photographs and well-structured content.
+
+## B. Academics
+
+Include:
+- Academic philosophy.
+- Class-wise educational information.
+- Curriculum.
+- Subjects offered.
+- Teaching methodology.
+- Academic programmes.
+- Examination system.
+- Assessment methods.
+- Academic calendar.
+- Academic policies.
+
+Provide individual pages for academic stages where required.
+
+## C. Admissions
+
+This page should be optimized for parents considering admission.
+
+Include:
+
+1. Admission introduction.
+2. Admission eligibility.
+3. Classes open for admission.
+4. Admission procedure.
+5. Required documents.
+6. Important dates.
+7. Fee-related information.
+8. Frequently asked questions.
+9. Admission enquiry form.
+10. Contact information.
+
+### Admission enquiry form
+
+Fields:
+- Parent/Guardian Name.
+- Student Name.
+- Date of Birth.
+- Current School.
+- Class Applying For.
+- Parent Contact Number.
+- Email Address.
+- Preferred Contact Method.
+- Additional Message.
+
+Form functionality:
+- Field validation.
+- Mobile number validation.
+- Spam protection.
+- Secure submission.
+- Success confirmation.
+- Administrative enquiry management.
+
+An online application and application tracking system can be added if approved.
+
+## D. Faculty and Staff
+
+Include:
+- Faculty members.
+- Departments.
+- Designations.
+- Qualifications.
+- Experience.
+- Approved profile photographs.
+
+Provide filters by department or designation.
+
+Do not publish private staff information.
+
+## E. Campus and Facilities
+
+Create a complete visual showcase of the school's infrastructure.
+
+Include separate sections for:
+- Classrooms.
+- Laboratories.
+- Library.
+- Sports facilities.
+- Activity areas.
+- Transportation.
+- Other facilities.
+
+Only publish verified infrastructure information.
+
+## F. Student Life
+
+Include:
+- Sports.
+- Cultural programmes.
+- Competitions.
+- Art and craft.
+- Science activities.
+- Educational excursions.
+- Clubs and societies.
+- Student leadership.
+- Celebrations.
+
+Create attractive category-based galleries.
+
+## G. News and Events
+
+Create a complete news management presentation.
+
+News page:
+- Featured article.
+- Latest announcements.
+- Category filters.
+- Search.
+- Publication dates.
+- Pagination.
+
+Individual news pages:
+- Headline.
+- Featured image.
+- Publication date.
+- Category.
+- Full article.
+- Related articles.
+- Share functionality.
+
+Events page:
+- Upcoming events.
+- Past events.
+- Event categories.
+- Date and time.
+- Event descriptions.
+- Event galleries.
+
+## H. Gallery
+
+Create an immersive gallery experience.
+
+Categories:
+- Campus.
+- Sports.
+- Cultural Events.
+- Academic Activities.
+- Celebrations.
+- Competitions.
+- Educational Trips.
+
+Features:
+- Masonry or editorial grid layout.
+- Image lightbox.
+- Full-screen viewing.
+- Album-based navigation.
+- Responsive image loading.
+- Video gallery, if approved.
+
+## I. Downloads Centre
+
+Create a centralized document library.
+
+Categories:
+- Admission forms.
+- Academic calendars.
+- Circulars.
+- School policies.
+- Examination information.
+- Important notices.
+- Other approved documents.
+
+Each document should display:
+- Document title.
+- Category.
+- Upload date.
+- File type.
+- Download action.
+
+## J. Contact Us
+
+Include:
+- Complete school contact details.
+- Address.
+- Map.
+- Contact form.
+- Directions.
+- Office information.
+- Social media links.
+
+---
+
+# 5. ADVANCED WEBSITE FEATURES
+
+The website should provide more than static informational pages.
+
+Implement the following functionality.
+
+### Global search
+
+Allow visitors to search:
+- Pages.
+- Announcements.
+- News.
+- Events.
+- Downloads.
+
+Display relevant results with clear navigation.
+
+### Announcement ticker
+
+Provide an optional announcement strip for urgent or important school updates.
+
+The administrator should control:
+- Message.
+- Publication date.
+- Expiry date.
+- Visibility.
+- Destination link.
+
+### Dynamic content
+
+News, events, announcements, achievements, galleries and downloads should be database-driven.
+
+Do not hardcode content that school administrators should be able to update.
+
+### Smart navigation
+
+Provide:
+- Breadcrumb navigation.
+- Related content.
+- Quick-access links.
+- Back-to-top functionality.
+- Clear page hierarchy.
+
+### Social integration
+
+Allow approved school social media links and sharing of public articles.
+
+### Accessibility
+
+Implement:
+- Keyboard navigation.
+- Visible focus states.
+- Accessible form labels.
+- Alt text for images.
+- Proper heading hierarchy.
+- Sufficient contrast.
+- Reduced-motion support.
+
+---
+
+# 6. WEBSITE ADMINISTRATION AND CMS
+
+Develop a secure administrative content-management interface for authorized school administrators.
+
+The website should not require a developer every time the school wants to publish an announcement or update a photograph.
+
+### Admin login
+
+Provide secure administrative authentication.
+
+### Dashboard
+
+Display:
+- Total published news articles.
+- Upcoming events.
+- Active announcements.
+- Gallery albums.
+- Admission enquiries.
+- Recent content activity.
+
+### Content management
+
+Administrators should be able to:
+
+1. Create, edit and delete website pages.
+2. Update homepage sections.
+3. Publish news articles.
+4. Manage announcements.
+5. Create and update events.
+6. Add student achievements.
+7. Manage alumni stories.
+8. Upload and organize photographs.
+9. Manage gallery albums.
+10. Upload downloadable documents.
+11. Manage faculty profiles.
+12. Update contact details.
+13. Manage admission enquiries.
+14. Update testimonials.
+15. Manage SEO information.
+
+### Publishing workflow
+
+Support:
+- Draft.
+- Preview.
+- Publish.
+- Edit.
+- Unpublish.
+- Archive.
+
+Provide publication and modification timestamps.
+
+### Media management
+
+Include:
+- Image uploads.
+- File validation.
+- Image optimization.
+- Descriptive filenames.
+- Alt-text fields.
+- File categorization.
+- Secure document storage.
+
+### Administrative permissions
+
+Support appropriate role separation, such as:
+- Super Admin.
+- Website Administrator.
+- Content Editor.
+
+Only authorized users should publish or modify content.
+
+---
+
+# 7. SCHOOL MANAGEMENT SYSTEM INTEGRATION
+
+The public website must be designed to work with the school's larger digital ecosystem.
+
+The overall project includes:
+- Official website.
+- School management system.
+- Student portal.
+- Parent portal.
+- Teacher portal.
+- Accounting and fee management.
+- Android application.
+- iOS application.
+
+Create clear integration entry points.
+
+### Portal navigation
+
+Student Portal:
+Students can access homework, study material, attendance, timetable, results and notices.
+
+Parent Portal:
+Parents can access their children's attendance, academic performance, homework, fees, receipts and announcements.
+
+Teacher Portal:
+Teachers can access their assigned classes, attendance, homework, study materials, marks and other authorized functions.
+
+Accounting:
+Authorized accounts staff can access fee collection, student ledgers, outstanding dues, receipts and reports.
+
+### Integration requirements
+
+- Centralized authentication where supported.
+- Secure APIs.
+- Consistent user identities.
+- Role-based access.
+- Secure redirects.
+- Consistent school branding.
+- Proper logout and session handling.
+
+IMPORTANT:
+
+Do not create fake portal functionality or buttons that lead nowhere.
+
+If the management system is not yet connected, create clearly defined integration points and configurable destination URLs.
+
+Do not expose database credentials, API secrets or administrator credentials in frontend code.
+
+---
+
+# 8. MOBILE RESPONSIVENESS
+
+The website must be designed mobile-first.
+
+Test layouts on:
+- Small Android phones.
+- Large Android phones.
+- iPhones.
+- Tablets.
+- Laptops.
+- Desktop monitors.
+- Large desktop displays.
+
+Requirements:
+- Responsive navigation.
+- Optimized images.
+- Readable text.
+- Proper spacing.
+- Touch-friendly controls.
+- Mobile-friendly forms.
+- No horizontal overflow.
+- Properly scaled hero sections.
+- Optimized loading performance.
+
+The website should feel like a carefully designed mobile experience, not a desktop layout squeezed into a smaller screen.
+
+---
+
+# 9. ANIMATION AND INTERACTION DESIGN
+
+Use motion to improve the experience, not distract visitors.
+
+Recommended animations:
+
+- Smooth page transitions.
+- Subtle text reveal.
+- Scroll-based section reveals.
+- Image parallax where appropriate.
+- Elegant hover interactions.
+- Navigation transitions.
+- Statistics count-up.
+- Gallery transitions.
+- Button micro-interactions.
+- Subtle background movement.
+
+Use Framer Motion or an equivalent animation library if suitable for the chosen architecture.
+
+Requirements:
+- Maintain performance.
+- Avoid excessive animation.
+- Respect reduced-motion settings.
+- Prevent layout shifts.
+- Ensure accessibility.
+
+---
+
+# 10. SEO AND PERFORMANCE
+
+Build the website with professional SEO foundations.
+
+Include:
+- Unique page titles.
+- Meta descriptions.
+- Semantic HTML.
+- Open Graph metadata.
+- Structured data where applicable.
+- XML sitemap.
+- Robots.txt.
+- Canonical URLs.
+- Image alt text.
+- Clean URL structures.
+- Search-engine-friendly content.
+- Proper internal linking.
+
+Performance requirements:
+- Image optimization.
+- Lazy loading.
+- Code splitting.
+- Minimized unnecessary JavaScript.
+- Caching.
+- Efficient database queries.
+- Responsive image delivery.
+- Fast initial page rendering.
+
+Target excellent Core Web Vitals and mobile performance.
+
+Do not sacrifice accessibility or functionality merely to improve a performance score.
+
+---
+
+# 11. TECHNICAL ARCHITECTURE
+
+Use a maintainable and production-ready architecture.
+
+Recommended technologies, subject to project compatibility:
+
+Frontend:
+- React.
+- TypeScript.
+- Next.js or an equivalent framework.
+- Tailwind CSS.
+- Framer Motion.
+
+Backend:
+- Secure server-side APIs.
+- Supabase or another approved backend.
+
+Database:
+- PostgreSQL or an equivalent relational database.
+
+Authentication:
+- Secure authentication.
+- Role-based access control.
+- Protected administrative routes.
+
+Storage:
+- Secure image and document storage.
+
+Deployment:
+- Production-ready hosting.
+- Custom domain.
+- SSL.
+- Environment variables.
+
+IMPORTANT:
+
+Do not choose technologies simply because they are popular. Validate compatibility, cost, scalability, security and long-term maintenance requirements before implementation.
+
+---
+
+# 12. DATABASE AND CONTENT STRUCTURE
+
+Create an organized database for:
+
+- Website pages.
+- News articles.
+- Announcements.
+- Events.
+- Achievements.
+- Alumni stories.
+- Faculty profiles.
+- Testimonials.
+- Gallery albums.
+- Gallery images.
+- Downloads.
+- Admission enquiries.
+- Website users.
+- Administrative roles.
+- Content revision history.
+
+Every content record should support appropriate fields such as:
+- Unique ID.
+- Title.
+- Description.
+- Category.
+- Image or attachment.
+- Publication status.
+- Created date.
+- Updated date.
+- Author or creator.
+- Publication date.
+
+Use proper database relationships, validation and access policies.
+
+---
+
+# 13. CONTENT AND IMAGE GUIDELINES
+
+The school will provide official:
+- Logo.
+- School photographs.
+- Campus photographs.
+- Principal's message.
+- School history.
+- Academic information.
+- Faculty details.
+- Achievements.
+- Contact information.
+- Admission details.
+- Institutional statistics.
+
+Until actual content is provided:
+
+- Use realistic placeholders.
+- Mark missing information clearly.
+- Keep all content editable.
+- Never invent school history.
+- Never invent student achievements.
+- Never invent faculty credentials.
+- Never invent school statistics.
+- Never publish fabricated testimonials.
+
+Use temporary royalty-free educational imagery only where necessary and ensure that it can be replaced easily.
+
+For student photographs, obtain the required school authorization and permissions.
+
+---
+
+# 14. SECURITY REQUIREMENTS
+
+Implement:
+
+- Secure admin authentication.
+- Server-side authorization.
+- Role-based access.
+- Protected API endpoints.
+- Input validation.
+- Form spam protection.
+- Secure file uploads.
+- Rate limiting where appropriate.
+- Secure session handling.
+- Environment-based secrets.
+- Audit logs for sensitive administrative actions.
+- Database access policies.
+- Backup and recovery planning.
+
+Public visitors must not have access to internal management data.
+
+Students and parents must use the separate authorized portal system.
+
+---
+
+# 15. WEBSITE TESTING AND QUALITY ASSURANCE
+
+Before declaring the website complete, test:
+
+### Functional testing
+- All navigation links.
+- All buttons.
+- Admission enquiry forms.
+- Search.
+- News pages.
+- Event pages.
+- Gallery.
+- Downloads.
+- Contact forms.
+- Admin content management.
+
+### Responsive testing
+- Mobile.
+- Tablet.
+- Desktop.
+- Different screen resolutions.
+
+### Security testing
+- Unauthorized admin access.
+- API protection.
+- Form validation.
+- File upload restrictions.
+- Role permissions.
+
+### Performance testing
+- Image loading.
+- Page rendering.
+- Core Web Vitals.
+- Mobile responsiveness.
+- Database query performance.
+
+### SEO testing
+- Metadata.
+- Page titles.
+- Sitemap.
+- Robots configuration.
+- Structured data.
+- Indexability.
+
+Do not leave unfinished buttons, dead links, broken layouts, sample content or non-functional forms in the production release.
+
+---
+
+# 16. DEVELOPMENT WORKFLOW
+
+Follow this sequence:
+
+**Phase 1 – Reference and requirements analysis**
+- Study the reference website.
+- Understand its information architecture.
+- Identify opportunities for improvement.
+- Define the sitemap.
+- Identify required school content.
+
+**Phase 2 – Branding and design**
+- Establish the visual direction.
+- Define typography and colours.
+- Create homepage design.
+- Design inner pages.
+- Design mobile navigation.
+- Get approval before final implementation.
+
+**Phase 3 – Frontend development**
+- Build reusable components.
+- Develop homepage.
+- Develop all inner pages.
+- Implement responsive layouts.
+- Implement animations.
+
+**Phase 4 – Backend and CMS**
+- Set up database.
+- Implement authentication.
+- Build administrative dashboard.
+- Implement content management.
+- Configure media storage.
+
+**Phase 5 – Integration**
+- Add student portal links.
+- Add parent portal links.
+- Add teacher portal links.
+- Integrate fee payment access where approved.
+- Connect relevant APIs.
+
+**Phase 6 – Testing**
+- Test every page.
+- Test every form.
+- Test mobile layouts.
+- Test access permissions.
+- Test performance and SEO.
+
+**Phase 7 – Deployment**
+- Configure domain.
+- Configure SSL.
+- Configure production environment.
+- Deploy.
+- Test the live website.
+- Provide administrative handover.
+
+---
+
+# 17. FINAL DELIVERABLES
+
+The completed project should include:
+
+1. Complete official school website.
+2. Premium homepage.
+3. Fully developed inner pages.
+4. Responsive mobile and desktop layouts.
+5. Interactive navigation.
+6. News and announcements management.
+7. Event management.
+8. Achievement and alumni sections.
+9. Gallery and download centre.
+10. Admission enquiry system.
+11. Secure administrative dashboard.
+12. Website CMS.
+13. Database integration.
+14. Portal access integration points.
+15. SEO implementation.
+16. Performance optimization.
+17. Security implementation.
+18. Deployment-ready source code.
+19. Documentation for website administration.
+
+---
+
+# 18. FINAL QUALITY EXPECTATIONS
+
+The final website must satisfy the following standards:
+
+- Visually superior to the reference website.
+- Professional enough for a reputed educational institution.
+- Elegant, modern and memorable.
+- Easy for parents to navigate.
+- Informative for prospective students.
+- Useful for existing students and parents.
+- Simple for administrators to manage.
+- Fully responsive.
+- Secure.
+- SEO-friendly.
+- Fast-loading.
+- Scalable.
+- Maintainable.
+
+Do not simply generate a homepage and claim the project is complete.
+
+Develop every page, section, reusable component and required functionality.
+
+Do not use fake school data to make the website look complete.
+
+Do not leave dummy buttons or placeholder links in the final production release.
+
+Use a consistent design system throughout the entire website.
+
+**Most importantly: create a website that feels like the digital identity of a prestigious educational institution, not just another school website template.**
+
+The final result should be something that New Dreamland School's management can proudly present to parents, students, faculty members and visitors.

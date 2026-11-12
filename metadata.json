@@ -1,0 +1,6 @@
+{
+  "name": "New Dreamland School Official Platform",
+  "description": "Official digital platform and website for New Dreamland School featuring admissions, academic curricula, student life, digital download centre, news and announcement bulletins, and interactive portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
